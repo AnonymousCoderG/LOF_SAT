@@ -1,0 +1,5 @@
+{
+  "name": "LOF Ground Station",
+  "description": "Real-time CubeSat monitoring station for Lab of Future sensors (MPU6050, MQ-180, DHT11).",
+  "requestFramePermissions": []
+}
